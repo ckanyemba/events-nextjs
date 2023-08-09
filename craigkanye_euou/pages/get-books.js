@@ -8,7 +8,6 @@ const GetBooksPage = () => {
 
   return (
     <div className={styles.getbooks_list}>
-      <h1>Books for Sale</h1>
       {books.map((book, index) => (
         <div key={book.id} className={`${styles.card} ${index % 2 === 1 ? styles.even : ''}`}>
           <img src={book.image} alt={book.title} className={styles.image} />
