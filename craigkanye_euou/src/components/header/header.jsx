@@ -6,7 +6,6 @@ export const Header = () => {
     <header>
       <div>
         <div className="topNav">
-       
           <nav>
             <ul>
               <li>
@@ -16,7 +15,7 @@ export const Header = () => {
               </li>
               <li>
                 <Link href="/events" passHref legacyBehavior>
-                  <a> EVENTS</a>
+                  <a> EVENTS </a>
                 </Link>
               </li>
               <li>
@@ -26,12 +25,17 @@ export const Header = () => {
               </li>
               <li>
                 <Link href="/get-books" passHref legacyBehavior>
-                  <a> BOOKS</a>
+                  <a> SHOP </a>
+                </Link>
+              </li>
+              <li>
+                <Link href="/get-books" passHref legacyBehavior>
+                  <a> CART </a>
                 </Link>
               </li>
               <li>
                 <Link href="/about-us" passHref legacyBehavior>
-                  <a> CRAIG</a>
+                  <a> CRAIG </a>
                 </Link>
               </li>
             </ul>

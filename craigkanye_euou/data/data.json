@@ -31,6 +31,14 @@
             "price": 14.99,
             "buyLink": "https://example.com/book2",
             "image": "https://i.imgur.com/znj7eFb.jpg"
+          },
+          {
+            "id": 2,
+            "title": "4. Shepherd and The Lost Sheep: The Lost Treasure",
+            "description": "A Motherless Child – a gripping contemporary thriller novel that immerses readers in the tumultuous world of Tinashe, a young orphan entangled in a whirlwind of corruption. Follow Tinashe's journey as he navigates a society plagued by deceit, power struggles, and hidden agendas. As a motherless child, Tinashe's vulnerabilities become both his greatest strength and his most significant challenge. With an unyielding spirit and a relentless pursuit of truth, he uncovers a web of secrets that threaten to consume him.",
+            "price": 14.99,
+            "buyLink": "https://example.com/book2",
+            "image": "https://i.imgur.com/znj7eFb.jpg"
           }
        
       ],
@@ -60,7 +68,7 @@
             "id": "'edtech-world-summit-2022",
             "title": "Wits Launch and Book Signing",
             "city": "Joburg",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "description": "Prepare to be transported to different worlds, as you delve into the intricate storytelling, vivid characterizations, and profound insights that grace the pages of these books. Whether you are a fan of mystery, romance, adventure, or self-improvement, there is something for everyone in this magnificent collection.",
             "image": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80",
             "emails_registered": [
                 "alicia@gmail.com",
@@ -69,9 +77,9 @@
         },
         {
             "id": "sigala-at-electric-brixton",
-            "title": "Sigala at Electric Brixton",
+            "title": "Johannesburg Theatre",
             "city": "Joburg",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "description": "As a token of our appreciation for your support, each book purchased during the event will be personally signed by the author. This unique opportunity to own a signed edition will make these books cherished keepsakes that will adorn your bookshelf and serve as a reminder of the magic that unfolds within their pages.",
             "image": "https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
             "emails_registered": [
                 "monica@gmail.com"
@@ -79,10 +87,10 @@
         },
         {
             "id": "kiss-haunted-house-party-2022",
-            "title": "KISS Haunted House Party 2022",
+            "title": "Market Theatre",
             "city": "Joburg",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://wembleypark.com/media/images/KISS-HHP-42-1440x810-Logos-Date-de.2e16d0ba.fill-496x279.jpg",
+            "description": "Johannesburg, often called Jo'burg or Jozi, is the largest city in South Africa and serves as the economic and cultural hub of the country. It is a vibrant city known for its diverse population, rich history, and thriving arts and literary scene. The city has a strong tradition of supporting and promoting literature, making it an ideal location for your book launch.",
+            "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
             "emails_registered": []
         },
         {
@@ -104,7 +112,7 @@
             "id": "innovation-summit-san-francisco",
             "title": "Innovation Summit San Francisco",
             "city": "Harare",
-            "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
+            "description": "We will delve into the historical context of Zimbabwe's struggle for independence and the subsequent challenges it has faced in building a stable democratic system. Understanding the country's political evolution will provide valuable insights into the upcoming elections and the potential for positive change.",
             "image": "https://images.unsplash.com/photo-1521464302861-ce943915d1c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
             "emails_registered": []
         },
