@@ -1,0 +1,20 @@
+{ 
+    "books_categories": [ 
+
+    {
+      "id": 1,
+      "title": "Book 1",
+      "description": "Description of Book 1",
+      "price": 9.99,
+      "buyLink": "https://example.com/book1"
+    },
+    {
+      "id": 2,
+      "title": "Book 2",
+      "description": "Description of Book 2",
+      "price": 14.99,
+      "buyLink": "https://example.com/book2"
+    }
+  ]
+}
+  
