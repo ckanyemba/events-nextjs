@@ -1,33 +1,29 @@
-const GetBooks = () => {
-    return (
-        <div>
-        <ul className="getbooks_list">
-            <h1> Looking for an interesting read!</h1>
- 
-            <h2>I suggest, you start here...</h2>
-        
-          <li>
-            <h3>Dlor in reprehenderit </h3>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-              exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-              dolor in reprehenderit in
-            </p>
-          </li>
-          <li>
-            <h3>Sed do eiusmod tempor </h3>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-              exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
-              dolor in reprehenderit in
-            </p>
-          </li>
-        </ul>
-      </div>
+// pages/get-books.js
+import React from 'react';
+import booksData from '../data/data.json';
+import styles from '../styles/get-books.module.css';
 
-    )
-}
+const GetBooksPage = () => {
+  const books = booksData.books_categories;
 
-export default GetBooks;
+  return (
+    <div className={styles.getbooks_list}>
+      <h1>Books for Sale</h1>
+      {books.map((book, index) => (
+        <div key={book.id} className={`${styles.card} ${index % 2 === 1 ? styles.even : ''}`}>
+          <img src={book.image} alt={book.title} className={styles.image} />
+          <div className={styles.content}>
+            <h2>{book.title}</h2>
+            <p>Description: {book.description}</p>
+            <p>Price: ${book.price.toFixed(2)}</p>
+            <a href={book.buyLink} target="_blank" rel="noopener noreferrer">
+              Buy Now
+            </a>
+          </div>
+        </div>
+      ))}
+    </div>
+  );
+};
+
+export default GetBooksPage;

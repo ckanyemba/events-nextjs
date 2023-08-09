@@ -16,22 +16,22 @@ export const Header = () => {
               </li>
               <li>
                 <Link href="/events" passHref legacyBehavior>
-                  <a> Events</a>
+                  <a> EVENTS</a>
                 </Link>
               </li>
               <li>
-                <Link href="/events" passHref legacyBehavior>
-                  <a> News</a>
+                <Link href="/blog" passHref legacyBehavior>
+                  <a> NEWS </a>
                 </Link>
               </li>
               <li>
                 <Link href="/get-books" passHref legacyBehavior>
-                  <a> Books</a>
+                  <a> BOOKS</a>
                 </Link>
               </li>
               <li>
                 <Link href="/about-us" passHref legacyBehavior>
-                  <a> Craig</a>
+                  <a> CRAIG</a>
                 </Link>
               </li>
             </ul>

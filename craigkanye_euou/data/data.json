@@ -1,64 +1,57 @@
-{
-    "events_categories": [
+{ 
+    "books_categories": [
         {
-            "id": "London",
-            "title": "1. Shepherd and The Lost Sheep: A Motherless Child",
-            "description": "A Motherless Child – a gripping contemporary thriller novel that immerses readers in the tumultuous world of Tinashe, a young orphan entangled in a whirlwind of corruption. Follow Tinashe's journey as he navigates a society plagued by deceit, power struggles, and hidden agendas. As a motherless child, Tinashe's vulnerabilities become both his greatest strength and his most significant challenge. With an unyielding spirit and a relentless pursuit of truth, he uncovers a web of secrets that threaten to consume him.",
-            "image": "https://i.imgur.com/MT5krJn.jpeg"
+          "id": 1,
+          "title": "1. Shepherd and The Lost Sheep: A Motherless Child",
+          "description": "A Motherless Child – a gripping contemporary thriller novel that immerses readers in the tumultuous world of Tinashe, a young orphan entangled in a whirlwind of corruption. Follow Tinashe's journey as he navigates a society plagued by deceit, power struggles, and hidden agendas. As a motherless child, Tinashe's vulnerabilities become both his greatest strength and his most significant challenge. With an unyielding spirit and a relentless pursuit of truth, he uncovers a web of secrets that threaten to consume him.",
+          "price": 9.99,
+          "buyLink": "https://example.com/book1",
+          "image": "https://i.imgur.com/MT5krJn.jpeg"
         },
         {
-            "id": "san-francisco",
-            "title": "2. FriendlyAdvice: Aftermath",
-            "description": "A Motherless Child – a gripping contemporary thriller novel that immerses readers in the tumultuous world of Tinashe, a young orphan entangled in a whirlwind of corruption. Follow Tinashe's journey as he navigates a society plagued by deceit, power struggles, and hidden agendas. As a motherless child, Tinashe's vulnerabilities become both his greatest strength and his most significant challenge. With an unyielding spirit and a relentless pursuit of truth, he uncovers a web of secrets that threaten to consume him.",
-            "image": "https://i.imgur.com/znj7eFb.jpg"
+          "id": 2,
+          "title": "2. FriendlyAdvice: Aftermath",
+          "description": "A Motherless Child – a gripping contemporary thriller novel that immerses readers in the tumultuous world of Tinashe, a young orphan entangled in a whirlwind of corruption. Follow Tinashe's journey as he navigates a society plagued by deceit, power struggles, and hidden agendas. As a motherless child, Tinashe's vulnerabilities become both his greatest strength and his most significant challenge. With an unyielding spirit and a relentless pursuit of truth, he uncovers a web of secrets that threaten to consume him.",
+          "price": 14.99,
+          "buyLink": "https://example.com/book2",
+          "image": "https://i.imgur.com/znj7eFb.jpg"
         },
         {
-            "id": "barcelona",
+            "id": 1,
             "title": "3. Against All Odds: A Road to USA",
             "description": "A Motherless Child – a gripping contemporary thriller novel that immerses readers in the tumultuous world of Tinashe, a young orphan entangled in a whirlwind of corruption. Follow Tinashe's journey as he navigates a society plagued by deceit, power struggles, and hidden agendas. As a motherless child, Tinashe's vulnerabilities become both his greatest strength and his most significant challenge. With an unyielding spirit and a relentless pursuit of truth, he uncovers a web of secrets that threaten to consume him.",
-            "image": "https://i.imgur.com/DdAiolF.jpeg"
-        },
-        {
-            "id": "London",
+            "price": 9.99,
+            "buyLink": "https://example.com/book1",
+            "image": "https://i.imgur.com/znj7eFb.jpg"
+          },
+          {
+            "id": 2,
             "title": "4. The Art of Peer Pressure: Stephen's Nightmare",
             "description": "A Motherless Child – a gripping contemporary thriller novel that immerses readers in the tumultuous world of Tinashe, a young orphan entangled in a whirlwind of corruption. Follow Tinashe's journey as he navigates a society plagued by deceit, power struggles, and hidden agendas. As a motherless child, Tinashe's vulnerabilities become both his greatest strength and his most significant challenge. With an unyielding spirit and a relentless pursuit of truth, he uncovers a web of secrets that threaten to consume him.",
-            "image": "https://images.unsplash.com/photo-1691087853398-510be1f9624f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDIxfGhtZW52UWhVbXhNfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+            "price": 14.99,
+            "buyLink": "https://example.com/book2",
+            "image": "https://i.imgur.com/znj7eFb.jpg"
+          }
+       
+      ],
+    "events_categories": [        
+        {
+            "id": "Joburg",
+            "title": "Events in Johannesburg, November 24, 2023",
+            "description": "Prepare to be transported to different worlds, as you delve into the intricate storytelling, vivid characterizations, and profound insights that grace the pages of these books. Whether you are a fan of mystery, romance, adventure, or self-improvement, there is something for everyone in this magnificent collection.",
+            "image": "https://images.unsplash.com/photo-1610307766999-01f45d259959?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8am9oYW5uZXNidXJnfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
         },
         {
-            "id": "London",
-            "title": "5. Shepherd and The Lost Sheep: The Lost Treasure",
-            "description": "A Motherless Child – a gripping contemporary thriller novel that immerses readers in the tumultuous world of Tinashe, a young orphan entangled in a whirlwind of corruption. Follow Tinashe's journey as he navigates a society plagued by deceit, power struggles, and hidden agendas. As a motherless child, Tinashe's vulnerabilities become both his greatest strength and his most significant challenge. With an unyielding spirit and a relentless pursuit of truth, he uncovers a web of secrets that threaten to consume him.",
-            "image": "https://images.unsplash.com/photo-1690377910989-a1c564ad47b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDY1fGhtZW52UWhVbXhNfHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+            "id": "Harare",
+            "title": "Events in Harare, April 24, 2023",
+            "description": "By harnessing the principles of decentralization, transparency, and immutability, our app empowers users to take control of their digital lives. Say goodbye to intermediaries, traditional financial systems, and centralized authorities. With our blockchain app, individuals can securely transact, exchange ideas, and collaborate directly with one another, fostering a new era of trust and efficiency..",
+            "image": "https://images.unsplash.com/photo-1502106532309-50b662d8d9de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fEhhcmFyZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
         },
         {
-            "id": "London",
-            "title": "6. Shepherd and The Lost Sheep: A Motherless Child",
-            "description": "A Motherless Child – a gripping contemporary thriller novel that immerses readers in the tumultuous world of Tinashe, a young orphan entangled in a whirlwind of corruption. Follow Tinashe's journey as he navigates a society plagued by deceit, power struggles, and hidden agendas. As a motherless child, Tinashe's vulnerabilities become both his greatest strength and his most significant challenge. With an unyielding spirit and a relentless pursuit of truth, he uncovers a web of secrets that threaten to consume him.",
-            "image": "https://i.imgur.com/MT5krJn.jpeg"
-        },
-        {
-            "id": "London",
-            "title": "7. Shepherd and The Lost Sheep: A Motherless Child",
-            "description": "A Motherless Child – a gripping contemporary thriller novel that immerses readers in the tumultuous world of Tinashe, a young orphan entangled in a whirlwind of corruption. Follow Tinashe's journey as he navigates a society plagued by deceit, power struggles, and hidden agendas. As a motherless child, Tinashe's vulnerabilities become both his greatest strength and his most significant challenge. With an unyielding spirit and a relentless pursuit of truth, he uncovers a web of secrets that threaten to consume him.",
-            "image": "https://i.imgur.com/MT5krJn.jpeg"
-        },
-        {
-            "id": "London",
-            "title": "8. Shepherd and The Lost Sheep: A Motherless Child",
-            "description": "A Motherless Child – a gripping contemporary thriller novel that immerses readers in the tumultuous world of Tinashe, a young orphan entangled in a whirlwind of corruption. Follow Tinashe's journey as he navigates a society plagued by deceit, power struggles, and hidden agendas. As a motherless child, Tinashe's vulnerabilities become both his greatest strength and his most significant challenge. With an unyielding spirit and a relentless pursuit of truth, he uncovers a web of secrets that threaten to consume him.",
-            "image": "https://i.imgur.com/MT5krJn.jpeg"
-        },
-        {
-            "id": "London",
-            "title": "9. Shepherd and The Lost Sheep: A Motherless Child",
-            "description": "A Motherless Child – a gripping contemporary thriller novel that immerses readers in the tumultuous world of Tinashe, a young orphan entangled in a whirlwind of corruption. Follow Tinashe's journey as he navigates a society plagued by deceit, power struggles, and hidden agendas. As a motherless child, Tinashe's vulnerabilities become both his greatest strength and his most significant challenge. With an unyielding spirit and a relentless pursuit of truth, he uncovers a web of secrets that threaten to consume him.",
-            "image": "https://i.imgur.com/MT5krJn.jpeg"
-        },
-        {
-            "id": "London",
-            "title": "10. Shepherd and The Lost Sheep: A Motherless Child",
-            "description": "A Motherless Child – a gripping contemporary thriller novel that immerses readers in the tumultuous world of Tinashe, a young orphan entangled in a whirlwind of corruption. Follow Tinashe's journey as he navigates a society plagued by deceit, power struggles, and hidden agendas. As a motherless child, Tinashe's vulnerabilities become both his greatest strength and his most significant challenge. With an unyielding spirit and a relentless pursuit of truth, he uncovers a web of secrets that threaten to consume him.",
-            "image": "https://i.imgur.com/MT5krJn.jpeg"
+            "id": "Gaborone",
+            "title": "Events in Harare, May 17, 2023",
+            "description": "We look forward to welcoming you to this momentous occasion and sharing the joy of reading with you. Prepare to be captivated, inspired, and transported into a world of imagination as we launch seven extraordinary books on this remarkable day..",
+            "image": "https://images.unsplash.com/photo-1575285272212-d52e915d01c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
         }
       
     ],
@@ -66,9 +59,9 @@
         {
             "id": "'edtech-world-summit-2022",
             "title": "Wits Launch and Book Signing",
-            "city": "London",
+            "city": "Joburg",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
-            "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "image": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80",
             "emails_registered": [
                 "alicia@gmail.com",
                 "monica@gmail.com"
@@ -77,7 +70,7 @@
         {
             "id": "sigala-at-electric-brixton",
             "title": "Sigala at Electric Brixton",
-            "city": "London",
+            "city": "Joburg",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
             "image": "https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
             "emails_registered": [
@@ -87,7 +80,7 @@
         {
             "id": "kiss-haunted-house-party-2022",
             "title": "KISS Haunted House Party 2022",
-            "city": "London",
+            "city": "Joburg",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
             "image": "https://wembleypark.com/media/images/KISS-HHP-42-1440x810-Logos-Date-de.2e16d0ba.fill-496x279.jpg",
             "emails_registered": []
@@ -95,7 +88,7 @@
         {
             "id": "sf-blockchain-week",
             "title": "SF Blockchain Week",
-            "city": "san-francisco",
+            "city": "Harare",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
             "image": "https://images.unsplash.com/photo-1516245834210-c4c142787335?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
             "emails_registered": [
@@ -110,7 +103,7 @@
         {
             "id": "innovation-summit-san-francisco",
             "title": "Innovation Summit San Francisco",
-            "city": "san-francisco",
+            "city": "Harare",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
             "image": "https://images.unsplash.com/photo-1521464302861-ce943915d1c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
             "emails_registered": []
@@ -118,7 +111,7 @@
         {
             "id": "fan-expo-san-francisco",
             "title": "FAN EXPO San Francisco",
-            "city": "san-francisco",
+            "city": "Harare",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
             "image": "https://images.unsplash.com/photo-1608889825103-eb5ed706fc64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
             "emails_registered": []
@@ -126,7 +119,7 @@
         {
             "id": "san-francisco-opera---san-francisco-tickets",
             "title": "San Francisco Opera - San Francisco Tickets",
-            "city": "san-francisco",
+            "city": "Harare",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
             "image": "https://images.unsplash.com/photo-1580809361436-42a7ec204889?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
             "emails_registered": []
@@ -134,7 +127,7 @@
         {
             "id": "concert-christian-löffler-+-detect-ensemble",
             "title": "Concert Christian Löffler + Detect Ensemble",
-            "city": "barcelona",
+            "city": "Gaborone",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
             "image": "https://images.unsplash.com/photo-1478147427282-58a87a120781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
             "emails_registered": [
@@ -145,7 +138,7 @@
         {
             "id": "the-halloween-house-party",
             "title": "The Halloween House Party",
-            "city": "barcelona",
+            "city": "Gaborone",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
             "image": "https://images.unsplash.com/photo-1587407627257-27b7127c868c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
             "emails_registered": [
@@ -169,7 +162,7 @@
         {
             "id": "world-congress-2022---barcelona",
             "title": "World Congress 2022 - Barcelona",
-            "city": "barcelona",
+            "city": "Gaborone",
             "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscisfa.",
             "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
             "emails_registered": [
@@ -180,7 +173,7 @@
         {
             "id": "riskminds-international",
             "title": "RiskMinds International",
-            "city": "barcelona",
+            "city": "Gaborone",
             "description": "Shepherd and the Lost Sheep, is an African Novel tracing back into the roots of African socio-culture",
             "image": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
             "emails_registered": [

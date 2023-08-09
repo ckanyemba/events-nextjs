@@ -38,10 +38,12 @@ const SingleEvent = ({ data }) => {
 
   return (
     <div className="event_single_page">
-      <h1> {data.title} </h1>
-      <Image src={data.image} width={1000} height={500} alt={data.title} />
-      <p> {data.description} </p>
+      
+      <Image src={data.image} width={700} height={600} alt={data.title} />
+      
       <form onSubmit={onSubmit} className="email_registration">
+      <h1> {data.title} </h1>
+      <p> {data.description} </p>
         <label> Get Registered for this event!</label>
         <input
           ref={inputEmail}
