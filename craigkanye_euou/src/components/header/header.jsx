@@ -24,12 +24,12 @@ export const Header = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/get-books" passHref legacyBehavior>
+                <Link href="/shop" passHref legacyBehavior>
                   <a> SHOP </a>
                 </Link>
               </li>
               <li>
-                <Link href="/get-books" passHref legacyBehavior>
+                <Link href="/cart" passHref legacyBehavior>
                   <a> CART </a>
                 </Link>
               </li>

@@ -60,3 +60,10 @@ a {
     padding: 80px 30px;
   }
 }
+
+.wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
